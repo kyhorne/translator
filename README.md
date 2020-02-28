@@ -1,4 +1,4 @@
-# COMP 3002 Winter 2019 Assignment #1 
+# COMP 3002 Winter 2020 Assignment #1 
 
 #### Implementing Smalltalk relations and making the scanner/parser work in some other language.
 
