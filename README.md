@@ -2,11 +2,6 @@
 
 #### Implementing Smalltalk relations and making the scanner/parser work in some other language.
 
-
-
-#### Formally Due
-Tuesday January 15, 2018 in class. If it takes longer, it takes longer...
-
 #### Task 1
 Smalltalk assignment. Implement relations as described in the 12 pages of the relation notes.
 
